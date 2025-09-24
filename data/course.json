@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "legacy_uid": "cd936728-b77e-ff58-9cb9-784eaaa2f8e1",
+  "instructors": {
+    "content": [
+      "4de161b1-6112-3439-8ac6-53ae82cf4f8c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9cb818b1-d7a0-c407-6214-314599cd60db",
+    "website": "14-23-government-regulation-of-industry-spring-2003"
+  },
+  "course_title": "Government Regulation of Industry",
+  "course_description": "The objective of this course is to introduce you to the role of government in markets where competitive equilibria \u201cfail.\u201d In this course we will emphasize the importance of market structure and industrial performance, including the strategic interaction of firms. We will examine the behavior of individual markets in some detail, focusing on cost analysis, the determinants of market demand, investment behavior, market power, and the implications of government regulatory behavior. The course will be broken into three parts. In the first part, we will review firm behavior and the theory of the market. Here, we will discuss perfectly competitive markets (our \u201cbenchmark\u201d), efficiency, market structure, strategic competition, and productivity. Once the foundations of the market are well understood, we will then move on to the second part of the course, where we will study \u201ceconomic\u201d regulation. Here, we will look at the behavior of natural monopolies and regulatory options for dealing with them. And in the third part of the course, we will study \u201csocial\u201d regulation\u2014focusing on environmental, health, and safety regulation.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.23",
+  "course_image_thumbnail": {
+    "content": "bde084ba-668a-c3d4-96cf-13b81a76b75a",
+    "website": "14-23-government-regulation-of-industry-spring-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "8bfcb8e2-d63f-4e81-8004-ce63efc31e64",
+  "site_short_id": "14.23-spring-2003",
+  "site_url_path": "courses/14-23-government-regulation-of-industry-spring-2003",
+  "title": "Course Metadata"
+}
