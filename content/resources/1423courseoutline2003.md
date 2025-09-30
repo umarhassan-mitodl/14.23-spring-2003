@@ -4,6 +4,8 @@ description: '14.23: Government Regulation of Industry, Spring 2003, Overview'
 file: /courses/14-23-government-regulation-of-industry-spring-2003/d9a61fbffbfdadb58a4a8650ea2a8aa3_1423courseoutline2003.pdf
 file_size: 186119
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

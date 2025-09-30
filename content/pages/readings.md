@@ -2,6 +2,8 @@
 content_type: page
 description: ''
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -19,7 +21,7 @@ This reading list is provided for completeness and contains the references for a
 ## Class 1 - The Role of Government.
 
 Crews, C. W. _Ten Thousand Commandments: An Annual Snapshot of the Federal_ _Regulatory State. 2002 Edition._ Washington D.C.: Cato Institute, 2002.   
-Available at: {{% resource_link "8e28f66c-bd62-450c-ae78-692435facdfb" "http://cei.org/10KC" %}}.
+Available at: [http://cei.org/10KC](http://cei.org/10KC).
 
 ## Class 2 - Markets.
 
@@ -40,7 +42,7 @@ Boycko, M., A. Shleifer, and R. W. Vishny. "A Theory of Privatisation." _Economi
 Domah, P. D., and M. G. Pollitt. "The Restructuring and Privatisation of Electricity Distribution and Supply Businesses in England and Wales: A Social Cost-Benefit Analysis." _Fiscal Studies_ 22, 1 (2001): 107-146.
 
 Gleaser, E. L. "Public Ownership in the American City." Harvard Institute of Economic Research Working Paper No. 1930. 2001.   
-Available at: {{% resource_link "503c584a-76c6-4b80-bad4-6bf43b5f7adc" "http://www.economics.harvard.edu/" %}}
+Available at: [http://www.economics.harvard.edu/](http://www.economics.harvard.edu/)
 
 Hart, O., A. Shleifer, and R. W. Vishny. "The Proper Scope of Government: Theory and Application to Prisons." _Quarterly Journal of Economics_ 112, 4 (1997): 1127-58.
 
@@ -67,7 +69,7 @@ Shleifer, A. "A Theory of Yardstick Competition." _Rand Journal of Economics_ 16
 ## Class 8 - Franchise Bidding: The Case of Cable Television.
 
 Pollitt, M. G. "The Declining role of the State in Infrastructure Investments in the UK." Chap. 8:1 in _Private Initiatives in Infrastructure: Priorities, Incentives and Performance._ Edited by M. Tsuji, S. V. Berg, and M. G. Pollitt. Aldershot: Edward Elgar, 2002.   
-Available at: {{% resource_link "8817fe46-8fa2-4543-8a30-fccf4931ce29" "http://www.econ.cam.ac.uk/" %}}.
+Available at: [http://www.econ.cam.ac.uk/](http://www.econ.cam.ac.uk/).
 
 Williamson, O. E. _Markets and Hierarchies, Analysis and Antitrust Implications: A Study in the Economics of Internal Organization._ New York: Free Press, 1975.
 
@@ -93,12 +95,12 @@ Jones, L. P., P. Tandon, and I. Vogelsang. _Selling Public Enterprise. A Cost-Be
 
 ## Class 16 - Problems of Regulation: The Case of Californian Electricity Deregulation
 
-Hogan, W. {{% resource_link "f90cca50-47f5-48eb-8b82-30d82393cacf" "_Competitive Electricity Market Design: A Wholesale Primer._" %}} Cambridge, Mass.: Kennedy School, 1998.
+Hogan, W. [_Competitive Electricity Market Design: A Wholesale Primer._](http://www.science.smith.edu/~jcardell/Readings/uGrid/Electricity%20Markets/Hogan%20ElecMktPrimer.pdf) Cambridge, Mass.: Kennedy School, 1998.
 
 Joskow, P. "California's Electricity Crisis." _Oxford Review of Economic Policy_ 17, 3 (2001): 365-388.
 
 Sweeney, J. _The California Electricity Crisis._ Stanford: Hoover Institution, 2002.   
-Available at: ({{% resource_link "843118ce-562c-4de1-b1a6-d681355c7185" "PDF" %}})
+Available at: ([PDF](http://www.stanford.edu/~jsweeney/paper/Lessons%20for%20the%20Future.pdf))
 
 ## Class 17 - Externalities.
 
@@ -117,24 +119,24 @@ Dardis, R. "The Value of Life: New Evidence from the Marketplace." _American_ _E
 Burtraw, D., A. Krupnick, E. Mansur, D. Austin, and D. Farrell. "Costs and Benefits of Reducing Air Pollutants Related to Acid Rain." _Contemporary Economic_ _Policy_ 16, 4 (Oct. 1998): 379-400.
 
 Ellerman, A. D. "Ex Post Evaluation of Tradable Permits: The U.S. SO2 Cap-and-Trade Program." Center for Energy and Environmental Policy, MIT, Research WP-2003-003.   
-Available at: {{% resource_link "864e4f85-2530-4060-87b9-405d374fe320" "http://web.mit.edu/ceepr/www/publications/emissions.html" %}}.
+Available at: [http://web.mit.edu/ceepr/www/publications/emissions.html](http://web.mit.edu/ceepr/www/publications/emissions.html).
 
 Ellerman, A. D., P. L. Joskow, and D. Harrison, Jr. _Emissions Trading in the U.S.:_ _Experience, Lessons and Considerations for Greenhouse Gases._ Report for Pew Center on Climate Change. Arlington, VA, 2003.
 
 Sweeney, J. _The California Electricity Crisis._ Stanford: Hoover Institution, 2002.   
-Available at: {{% resource_link "d3f9fed9-c96e-4935-815c-0dba2f4d351b" "http://www.hoover.org/publications/books/8325" %}}.
+Available at: [http://www.hoover.org/publications/books/8325](http://www.hoover.org/publications/books/8325).
 
 ## Class 21 - Environmental Regulation 3 – Regulating the Global Commons.
 
 Jacoby, H. D., R. S. Eckaus, A. D. Ellerman, R. G. Prinn, D. M. Reiner, and Z. Yang. _CO_{{< sub "2" >}} _Emissions Limits: Economic Adjustments and the Distribution of Burdens._ Report No.9, MIT Joint Program on the Science and Policy of Global Change. 1996.   
-Available at: {{% resource_link "ee6211e6-fdca-48d7-a7e2-f6946b611e74" "http://web.mit.edu/globalchange/www/rpt9.html" %}}.
+Available at: [http://web.mit.edu/globalchange/www/rpt9.html](http://web.mit.edu/globalchange/www/rpt9.html).
 
 Reilly, J. M., H. D. Jacoby, and R. G. Prinn. _Multi-Gas Contributors to Global_ _Climate Change: Climate Impacts and Mitigation Costs of Non-CO_{{< sub "2" >}} _Gases._ Report for Pew Center on Climate Change. Arlington, V.A., 2003.
 
 Tol, R. S. J. "The Marginal Costs of Greenhouse Emissions." _Energy Journal_ 20, 1 (1999): 61-81.
 
 Webster, M., C. Forest, J. Reilly, M. Babiker, D. Kicklighter, M. Mayer, R. Prinn, M. Sarofim, A. Sokolov, P. Stone, and C. Wang. _Uncertainty Analysis of Climate_ _Change and Policy Response._ Report No. 95, MIT Joint Program on Science and Policy of Global Change. 2002.   
-Available at: {{% resource_link "39b431aa-a342-42ff-a6e1-ce448117e950" "http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt95.pdf" %}}.
+Available at: [http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt95.pdf](http://web.mit.edu/globalchange/www/MITJPSPGC_Rpt95.pdf).
 
 ## Class 22 - The Regulation of Workplace Safety.
 
@@ -153,7 +155,7 @@ Viscusi, W. K., and C. O’Connor. "Adaptive Responses to Chemical Labelling: Ar
 ## Class 23 - Pharmaceuticals.
 
 Congressional Budget Office. _How Increased Competition from Generic Drugs_ _has affected Prices and Returns from the Pharmaceutical Industry._ July 1998.   
-Available at: {{% resource_link "b9afce44-aa2e-4c61-87cc-c7b10ee5a9a1" "http://www.cbo.gov" %}}.
+Available at: [http://www.cbo.gov](http://www.cbo.gov/).
 
 Nordhaus, W. D. _Invention, Growth and Welfare._ Cambridge, Mass.: MIT Press, 1969.
 

@@ -4,6 +4,8 @@ description: Mock Midterm Examination
 file: /courses/14-23-government-regulation-of-industry-spring-2003/44a8f3940c154c35db5aac85e0d8d6c8_mockmidtermq4ans.pdf
 file_size: 79821
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

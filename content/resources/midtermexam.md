@@ -4,6 +4,8 @@ description: Midterm Examination
 file: /courses/14-23-government-regulation-of-industry-spring-2003/e68afd6b8a5f9ea3e82041b1284143a0_midtermexam.pdf
 file_size: 114939
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
