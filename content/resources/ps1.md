@@ -4,8 +4,6 @@ description: 'Homework Set #1'
 file: /courses/14-23-government-regulation-of-industry-spring-2003/27f285a721e18497612dc7acae382cbd_ps1.pdf
 file_size: 44822
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

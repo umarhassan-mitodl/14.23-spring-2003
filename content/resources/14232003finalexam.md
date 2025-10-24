@@ -4,8 +4,6 @@ description: Final Examination
 file: /courses/14-23-government-regulation-of-industry-spring-2003/0461d730b4b111570a58df361b3d2394_14232003finalexam.pdf
 file_size: 109253
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
